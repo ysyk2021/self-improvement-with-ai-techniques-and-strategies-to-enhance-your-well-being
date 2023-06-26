@@ -1,5 +1,4 @@
-Chapter 5: Enhancing Mental Health and Well-being with AI: Addressing Concerns and Ethical Considerations in Using AI for Mental Health Support
-===============================================================================================================================================
+# Addressing Concerns and Ethical Considerations in Using AI for Mental Health Support
 
 While AI presents exciting opportunities for enhancing mental health and well-being, its use in this field also raises important concerns and ethical considerations. In this chapter, we will explore some of these concerns and discuss strategies for addressing them.
 
