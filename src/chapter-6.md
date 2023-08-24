@@ -1,5 +1,3 @@
-Chapter 5: Enhancing Mental Health and Well-being with AI
-=========================================================
 
 Mental health and well-being are essential components of overall health, and AI technology has the potential to revolutionize how we approach mental health support and intervention. In this chapter, we will explore how AI can be used for personalized interventions in stress management and anxiety, as well as its use in mental health support and intervention.
 

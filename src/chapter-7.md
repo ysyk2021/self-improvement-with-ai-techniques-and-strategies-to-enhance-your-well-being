@@ -1,5 +1,3 @@
-Chapter 6: Building a Supportive Network with AI
-================================================
 
 Building a supportive community is essential for personal growth and well-being. In this chapter, we will explore how AI-powered social networks can facilitate the building of such communities.
 

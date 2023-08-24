@@ -1,5 +1,3 @@
-Chapter 2: Setting Goals and Tracking Progress with AI
-======================================================
 
 Setting goals and tracking progress are important components of self-improvement and personal development. In this chapter, we will explore how AI technology can be used to set and track goals, and provide motivation and accountability.
 

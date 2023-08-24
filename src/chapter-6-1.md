@@ -1,4 +1,3 @@
-# Use of AI for Mental Health Support and Intervention
 
 In recent years, the use of artificial intelligence (AI) in mental health support and intervention has become increasingly common. In this chapter, we will explore the different ways in which AI can be used to enhance mental health and well-being, with a particular focus on its use in support and intervention.
 

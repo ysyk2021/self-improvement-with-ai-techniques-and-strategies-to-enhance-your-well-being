@@ -1,4 +1,3 @@
-# Use of AI-Powered Social Networks for Building Supportive Communities
 
 Building a supportive network is an important component of self-improvement and personal development. In this chapter, we will explore how AI-powered social networks can be used to build supportive communities.
 
