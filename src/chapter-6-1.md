@@ -1,5 +1,4 @@
-Chapter 6: Use of AI for Mental Health Support and Intervention
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the invaluable role that AI plays in providing mental health support and intervention. AI techniques are revolutionizing the field of mental health, offering personalized, accessible, and effective solutions for individuals seeking to enhance their well-being and overcome mental health challenges.
 

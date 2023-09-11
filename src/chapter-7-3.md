@@ -1,5 +1,4 @@
-Chapter 8: Addressing Potential Challenges and Ethical Considerations in Using AI for Building Social Networks
-==============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the potential challenges and ethical considerations associated with harnessing AI for the creation and management of social networks focused on self-improvement and well-being.
 

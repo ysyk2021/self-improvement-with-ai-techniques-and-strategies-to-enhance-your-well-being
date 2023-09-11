@@ -1,5 +1,4 @@
-Chapter 6: Connecting with Like-Minded Individuals and Finding Mentors with AI
-==============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we'll explore how AI technologies are transforming the way individuals connect with like-minded peers and mentors, facilitating personal growth and well-being.
 

@@ -1,5 +1,4 @@
-Chapter 2: Explanation of Setting Goals and Tracking Progress with AI Technology
-================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the fundamentals of setting and achieving personal goals while utilizing AI technology to track progress effectively. Understanding these key concepts is essential for harnessing the power of AI for self-improvement and enhanced well-being.
 

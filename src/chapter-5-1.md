@@ -1,5 +1,4 @@
-Chapter 3: Use of AI for Personalized Fitness and Nutrition Recommendations
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the transformative role of AI in providing tailored fitness and nutrition recommendations to help individuals achieve their self-improvement and well-being goals.
 

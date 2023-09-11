@@ -1,5 +1,4 @@
-Chapter 4: Use of AI for Guided Mindfulness and Emotion Regulation Practices
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the innovative ways in which AI is harnessed to facilitate guided mindfulness and emotion regulation practices, offering individuals effective tools for self-improvement and enhanced well-being.
 

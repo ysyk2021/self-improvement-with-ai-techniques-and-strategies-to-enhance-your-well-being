@@ -1,5 +1,4 @@
-Chapter 4: Benefits of Tracking Progress for Personal Motivation and Accountability
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the significant advantages of utilizing progress tracking, facilitated by AI techniques, to enhance personal motivation and accountability on the journey of self-improvement and well-being.
 

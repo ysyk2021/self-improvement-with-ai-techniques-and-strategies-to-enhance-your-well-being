@@ -1,5 +1,4 @@
-Chapter 7: Potential Challenges and Ethical Considerations in Using AI for Physical Health and Fitness
-======================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the potential challenges and ethical considerations associated with harnessing AI for improving physical health and fitness. While AI offers incredible opportunities in this domain, it is essential to be mindful of the risks and ethical implications involved.
 

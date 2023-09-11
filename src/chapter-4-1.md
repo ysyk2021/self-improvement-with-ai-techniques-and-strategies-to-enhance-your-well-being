@@ -1,5 +1,4 @@
-Chapter 2: Explanation of Mindfulness and Emotional Intelligence and Their Role in Self-Improvement
-===================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore two fundamental concepts, mindfulness and emotional intelligence, and their pivotal roles in the journey of self-improvement. These concepts, when harnessed with the aid of AI techniques, can significantly enhance your overall well-being.
 

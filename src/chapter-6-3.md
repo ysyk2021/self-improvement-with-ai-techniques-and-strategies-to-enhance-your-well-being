@@ -1,5 +1,4 @@
-Chapter 7: Addressing Concerns and Ethical Considerations in Using AI for Mental Health Support
-===============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will examine the critical concerns and ethical considerations surrounding the utilization of AI techniques for mental health support. While AI has the potential to revolutionize mental health care, it is essential to navigate this domain with care, ensuring the well-being and privacy of individuals.
 

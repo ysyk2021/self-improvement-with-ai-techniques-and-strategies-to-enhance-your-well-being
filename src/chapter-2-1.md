@@ -1,5 +1,4 @@
-Chapter 1: Explanation of AI Technology and Its Capabilities
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will embark on a journey to understand the fundamental concepts of Artificial Intelligence (AI) and explore its remarkable capabilities. By grasping the underlying principles and potential applications of AI, you'll gain insight into how AI can be harnessed to enhance various aspects of self-improvement and well-being.
 

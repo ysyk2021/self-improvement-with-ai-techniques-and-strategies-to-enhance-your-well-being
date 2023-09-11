@@ -1,5 +1,4 @@
-Chapter 5: Use of AI-Powered Apps for Goal-Setting and Habit Formation
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the innovative role of AI-powered applications in helping individuals set and achieve their self-improvement goals while facilitating habit formation for enhanced well-being.
 

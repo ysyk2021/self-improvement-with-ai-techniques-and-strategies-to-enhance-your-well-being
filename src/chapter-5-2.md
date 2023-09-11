@@ -1,5 +1,4 @@
-Chapter 4: Monitoring Health Data with AI Technology
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the transformative role of AI technology in monitoring health data and its profound impact on self-improvement and overall well-being.
 
